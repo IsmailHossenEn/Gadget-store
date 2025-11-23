@@ -1,0 +1,163 @@
+[
+  {
+    "product_id": 101,
+    "product_title": "Wireless Bluetooth Headphones",
+    "product_image": "https://res.cloudinary.com/dn9bladxx/image/upload/v1732128158/pexels-littlesoad-1646704_pj0ywc.jpg",
+    "category": "Accessories",
+    "price": 59.99,
+    "description": "High-quality wireless headphones with noise-canceling technology and long battery life.",
+    "specification": [
+      "Bluetooth 5.0",
+      "Noise-canceling",
+      "20-hour battery life",
+      "Foldable design",
+      "Includes carrying case"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 102,
+    "product_title": "Smart Watch",
+    "product_image": "https://res.cloudinary.com/dn9bladxx/image/upload/v1732128157/pexels-olly-3479178_mgfdwc.jpg",
+    "category": "Smart Watches",
+    "price": 149.99,
+    "description": "A sleek smartwatch with fitness tracking, heart rate monitoring, and smartphone notifications.",
+    "specification": [
+      "Heart rate monitor",
+      "Water-resistant",
+      "Step counter",
+      "Sleep tracker"
+    ],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": 103,
+    "product_title": "Portable Bluetooth Speaker",
+    "product_image": "https://res.cloudinary.com/dn9bladxx/image/upload/v1732128157/pexels-shottrotter-1034653_fuz7xm.jpg",
+    "category": "Accessories",
+    "price": 79.99,
+    "description": "Compact speaker with powerful sound, waterproof design, and 10-hour battery life.",
+    "specification": [
+      "Waterproof",
+      "10-hour battery life",
+      "Compact design",
+      "Bluetooth 5.0"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 104,
+    "product_title": "4K UHD Smart TV",
+    "product_image": "https://res.cloudinary.com/dn9bladxx/image/upload/v1732128157/pexels-vedant-sharma-146194-440320_rudlbe.jpg",
+    "category": "Accessories",
+    "price": 499.99,
+    "description": "A stunning 55-inch 4K UHD Smart TV with streaming apps and advanced picture quality.",
+    "specification": [
+      "4K UHD resolution",
+      "55-inch display",
+      "Smart apps pre-installed",
+      "HDR support"
+    ],
+    "availability": false,
+    "rating": 4.8
+  },
+  {
+    "product_id": 105,
+    "product_title": "Wireless Gaming Mouse",
+    "product_image": "https://res.cloudinary.com/dn9bladxx/image/upload/v1732128157/pexels-jakubzerdzicki-28850990_x94dlj.jpg",
+    "category": "Accessories",
+    "price": 69.99,
+    "description": "Ergonomic wireless mouse with customizable buttons and RGB lighting for gamers.",
+    "specification": [
+      "Customizable buttons",
+      "RGB lighting",
+      "Wireless connection",
+      "High DPI sensor"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": 106,
+    "product_title": "Noise-Canceling Earbuds",
+    "product_image": "https://res.cloudinary.com/dn9bladxx/image/upload/v1732128157/pexels-zeleboba-28206207_zhr1np.jpg",
+    "category": "Accessories",
+    "price": 129.99,
+    "description": "Premium earbuds with active noise canceling, excellent sound quality, and wireless charging.",
+    "specification": [
+      "Active noise canceling",
+      "Wireless charging",
+      "Water-resistant",
+      "20-hour battery life"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 201,
+    "product_title": "Luxury Leather Wallet",
+    "product_image": "https://res.cloudinary.com/dn9bladxx/image/upload/v1732128787/pexels-lum3n-44775-167703_jp5fzc.jpg",
+    "category": "Accessories",
+    "price": 54.99,
+    "description": "Handcrafted wallet made with genuine leather and a sleek design.",
+    "specification": [
+      "Genuine leather",
+      "RFID protection",
+      "Multiple card slots",
+      "Compact design"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": 202,
+    "product_title": "Stainless Steel Watch",
+    "product_image": "https://res.cloudinary.com/dn9bladxx/image/upload/v1732128787/pexels-nata-13590343_u7wejj.jpg",
+    "category": "Smart Watches",
+    "price": 199.99,
+    "description": "Elegant stainless steel wristwatch with a scratch-resistant face and water resistance.",
+    "specification": [
+      "Stainless steel body",
+      "Water-resistant",
+      "Scratch-resistant face",
+      "Quartz movement"
+    ],
+    "availability": false,
+    "rating": 4.5
+  },
+  {
+    "product_id": 301,
+    "product_title": "MacBook Air",
+    "product_image": "https://res.cloudinary.com/dn9bladxx/image/upload/v1732993168/pexels-polina-zimmerman-3782023_dk0lqr.jpg",
+    "category": "MacBook",
+    "price": 999.99,
+    "description": "The latest MacBook Air with the M2 chip, a lightweight and powerful laptop for professionals.",
+    "specification": [
+      "M2 chip",
+      "13-inch Retina Display",
+      "16GB RAM",
+      "512GB SSD"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 302,
+    "product_title": "iPhone 15 Pro",
+    "product_image": "https://res.cloudinary.com/dn9bladxx/image/upload/v1732993291/pexels-zana-latif-2772032-18525573_hcvm0m.jpg",
+    "category": "iPhone",
+    "price": 1299.99,
+    "description": "The latest iPhone 15 Pro with cutting-edge features and exceptional performance.",
+    "specification": [
+      "A17 Bionic Chip",
+      "6.1-inch Super Retina XDR Display",
+      "ProMotion technology",
+      "Triple-camera system"
+    ],
+    "availability": true,
+    "rating": 4.9
+  }
+]
